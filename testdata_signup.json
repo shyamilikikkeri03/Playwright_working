@@ -1,0 +1,11 @@
+{
+    "name":"Mukesh",
+    "email":"Mukesh@gmail.com",
+    "password":"admin@123",
+    "intrests":["Cypress","java","API"],
+    "gender":"male",
+    "address":{
+        "area":"balehonnur",
+        "state":"karnataka"
+    }
+}
